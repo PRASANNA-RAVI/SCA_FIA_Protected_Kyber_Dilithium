@@ -1,4 +1,4 @@
-# Generic Side-Channel Assisted Chosen-Ciphertext Attacks on NTRU-based KEMs:
+# SCA and FIA Protected Kyber and Dilithium:
 
 This project contains protected implementations of Kyber and Dilithium against several known side-channel and fault injection attacks. The details of the attacks as well as countermeasures considered are present in the manuscript. The project also contains a python based setup for simulating several attacks against the Message_Poly_Sanity_Check countermeasure on parameters of Kyber KEM.
 
